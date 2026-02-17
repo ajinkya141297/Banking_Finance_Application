@@ -1,4 +1,4 @@
-# 💳 PayFlow — UPI Banking & Finance App
+# 💳  UPI Banking & Finance App
 
 A modern fintech web application built with **React + Vite**, featuring UPI-style QR payment simulation, financial calculators, and expense tracking.
 
